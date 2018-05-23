@@ -1,24 +1,13 @@
-# README
+#전체적인 과정
+전체적으로 지금까지 배워왔던 모든 개념을 동원하여 레시피 북을 만드는 것을 목표로 하였다.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#새로 안 내용
+- haml 사용법
+- 자바스크립트 추가활용
 
-Things you may want to cover:
 
-* Ruby version
+#오류 내용
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- 두번째는 haml 사용이 가장 큰 차이점이었던것 같은데...  들여쓰기 차이로 구분하는것이 익숙하지 않아 몇시간을 날렸다.. 결국 띄어쓰기와 tap 에 차이로 들어났다. 
+- 다른 부분은 첫번째 강의와 거의 비슷했다.
+-
